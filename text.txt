@@ -1,0 +1,5 @@
+Hello my name is Javokhir and this game calculates your typing speed
+This app build with different functions that runs this amazing game
+Follow to my task and you will see more new projects soon. You can develop your Python skills as well
+If you really want to type fast, there is a platform called Typing Club. Use it!
+If you complete all tasks of Typing Club you will be become pro typer
